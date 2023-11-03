@@ -1,4 +1,4 @@
-# UTS-Prak-mobile
+# UTS-Praktikum-Mobile-G
 
 Nama: Muhamad Randi Septiansah 
 
@@ -22,6 +22,6 @@ Praktek Pengembangan Aplikasi Mobile G
 
 <img src="ss/six.png" alt="alt text" width="300">
 
-
+Link: [Repo Pizza](https://github.com/randi9/UTS-Prak-mobile/tree/master)
 
 
