@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_items">
+        <item>Cimanggung</item>
+        <item>Cipadung</item>
+        <item>Jatinangor</item>
+        <item>Cilengkrang</item>
+        <item>Cicalengka</item>
+        <item>Nagreg</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="primary_color">#D52F2F</color>
+    <color name="red">#f24448</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Pizza Restaurant</string>
+    <style name="Base.Theme.PizzaRestaurant" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+    <style name="Theme.PizzaRestaurant" parent="Base.Theme.PizzaRestaurant"/>
+</resources>
